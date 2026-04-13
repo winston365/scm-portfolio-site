@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: '위형석 | SCM 전문가',
-  description: 'SCM/조달 전문가 포트폴리오',
+  title: '위형석 | SCM 실무자',
+  description: 'SCM·조달 실무자 포트폴리오',
   lang: 'ko-KR',
   
   themeConfig: {
@@ -24,7 +24,7 @@ export default defineConfig({
     },
     
     footer: {
-      message: 'SCM/조달 전문가 포트폴리오',
+      message: 'SCM·조달 실무자 포트폴리오',
       copyright: '© 2026 위형석'
     },
     
